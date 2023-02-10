@@ -1,0 +1,17 @@
+{
+  "name": "bot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "burak.js",
+  "scripts": {
+    "test": "no .de"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "discord.js": "^12.5.2",
+    "moment": "^2.29.1",
+    "quick.db": "^7.1.3"
+  }
+}
